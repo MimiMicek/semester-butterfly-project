@@ -1,7 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+body.landing-page{
+    background-image: url("../imgs/bckgrnd1.png");
+    background-size:cover;
+}
+
 .logo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: left;
 }
 
 #div1, #div2, #div3, #div4, #div5, #div6, #div7,
@@ -12,11 +19,10 @@
     float: left;
     width: 135px;
     height: 30px;
-    margin: 15px;
-    padding: 15px;
+    margin: 11px;
+    padding: 11px;
     display: inline-flex;
 }
-
 
 #div-main1, #div-main2, #div-main3, #div-main4, #div-main5 {
     float: inside;
@@ -39,6 +45,8 @@
     align-items: center;
     display: block;
     margin-right: auto;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
 }
 
 .answer-box{
@@ -49,3 +57,31 @@
     margin-bottom: 20px;
 }
 
+* {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+*:before,
+*:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.logo-headline{
+    --bs-gutter-x: 0 !important;
+}
+
+.btn {
+    display: inline-block !important;
+    height: 50px !important;
+    width: 50px !important;
+    border-radius: 50% !important;
+    background-color: #E64D2D !important;
+    box-shadow: 5px 10px 8px #888888;
+}
+
+.container{
+    opacity: 0.9;
+}
