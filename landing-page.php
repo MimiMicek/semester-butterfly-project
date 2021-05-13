@@ -35,12 +35,12 @@
                                         </svg>
                                     </span>
                                 </div>
-                                <div class="col-xs-12 col-sm-6 col-md-8 mb-5" style="text-align: right !important;">
-                                    <h1 class="display-3"><strong>What do butterflies</strong></h1>
-                                    <h1 class="display-3"><strong>mean to you?</strong></h1>
+                                <div class="col-xs-12 col-sm-6 col-md-8" style="text-align: right !important;">
+                                    <h1 class="display-5"><strong>What do butterflies</strong></h1>
+                                    <h1 class="display-5"><strong>mean to you?</strong></h1>
                                 </div>
                             </div>
-                            <h4 style="text-align: center; margin-bottom: 30px; margin-top: 30px">Read the list of words on the left part of the page and choose 5 words that symbolize for you the butterflies as a concept. Remember: there are no right or wrong answers.</h4>
+                            <h4 style="text-align: center;">Read the list of words on the left part of the page and choose 5 words that symbolize for you the butterflies as a concept. Remember: there are no right or wrong answers.</h4>
                             <div class="card-text text-center">
                                 <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
                                     <img src="imgs/aposematism.png" draggable="true" ondragstart="drag(event)" id="drag1" width="275" height="45" alt="">
@@ -132,7 +132,7 @@
                                 </div>
                             </div>
                             <div style="text-align: right !important;">
-                                <a href="app.php" style="text-align: center !important;" class="btn float-right mb-2">Next</a>
+                                <a href="app.php" style="text-align: center !important;" class="btn float-right">Next</a>
                             </div>
 
                           </div>
