@@ -5,5 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="jquery-3.3.1.slim" level="application" />
+    <orderEntry type="library" name="rangeslider.js" level="application" />
+    <orderEntry type="library" name="bootstrap-slider" level="application" />
+    <orderEntry type="library" name="fa280b3192" level="application" />
   </component>
 </module>

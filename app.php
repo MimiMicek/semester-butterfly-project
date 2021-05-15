@@ -11,7 +11,9 @@
             <div class="ratio" style="--bs-aspect-ratio: 70%;">
               <iframe src="https://42125.gradio.app\" title="Gradio app" allowfullscreen></iframe>
             </div>
-            <a style="margin-top: 20px" href="landing-page.php" class="btn btn-warning">Next</a>
+              <div style="text-align: right !important;">
+                  <a href="" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
+              </div>
           </div>
         </div>
       </div>
