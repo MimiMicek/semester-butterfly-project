@@ -208,7 +208,7 @@
                                                             Closed, it <strong>looks like a dead leaf</strong> which helps it escape predators.
                                                         </p>
                                                         <p class="paragraph" style="text-align: left">
-                                                            They use a strategy called <strong>poliphemism</strong> to change color and other visual features depending on <strong>dry and wet season</strong>.
+                                                            The <strong>wings change color</strong> depending on <strong>dry and wet season</strong>. This is called <strong>seasonal polyphemism</strong>.
                                                         </p>
                                                     </div>
                                                 </div>
