@@ -34,29 +34,41 @@
                                         <img id="img2" class="img-fluid rounded" src="imgs/rectangle2.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img3" class="img3 img-fluid rounded" src="imgs/rectangle3.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img3" class="image img-fluid rounded" src="imgs/rectangle3.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal4">
                                         <img id="img4" class="img-fluid rounded" src="imgs/rectangle4.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img5" class="img-fluid rounded" src="imgs/rectangle5.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img5" class="image img-fluid rounded" src="imgs/rectangle5.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img6" class="img-fluid rounded" src="imgs/rectangle6.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img6" class="image img-fluid rounded" src="imgs/rectangle6.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal7">
                                         <img id="img7" class="img-fluid rounded" src="imgs/rectangle7.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img8" class="img-fluid rounded" src="imgs/rectangle8.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img8" class="image img-fluid rounded" src="imgs/rectangle8.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal9">
@@ -66,45 +78,63 @@
                                         <img id="img10" class="img-fluid rounded" src="imgs/rectangle10.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img11" class="img-fluid rounded" src="imgs/rectangle11.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img11" class="image img-fluid rounded" src="imgs/rectangle11.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal12">
                                         <img id="img12" class="img-fluid rounded" src="imgs/rectangle12.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img13" class="img-fluid rounded" src="imgs/rectangle13.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img13" class="image img-fluid rounded" src="imgs/rectangle13.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal14">
                                         <img id="img14" class="img-fluid rounded" src="imgs/rectangle14.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img15" class="img-fluid rounded" src="imgs/rectangle15.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img15" class="image img-fluid rounded" src="imgs/rectangle15.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal16">
                                         <img id="img16" class="img-fluid rounded" src="imgs/rectangle16.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img17" class="img-fluid rounded" src="imgs/rectangle17.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img17" class="image img-fluid rounded" src="imgs/rectangle17.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img18" class="img-fluid rounded" src="imgs/rectangle18.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img18" class="image img-fluid rounded" src="imgs/rectangle18.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                     <a type="button" href="" data-toggle="modal" data-target="#showModal19">
                                         <img id="img19" class="img-fluid rounded" src="imgs/rectangle19.png"/>
                                     </a>
                                     <a type="button" href="" data-toggle="modal">
-                                        <div class="middle">
-                                            <img id="img20" class="img-fluid rounded" src="imgs/rectangle20.png"/>
+                                        <div class="middle img-container">
+                                            <img id="img20" class="image img-fluid rounded" src="imgs/rectangle20.png"/>
+                                            <div class="overlay">
+                                                <div class="text">unavailable</div>
+                                            </div>
                                         </div>
                                     </a>
                                 </div>
@@ -120,10 +150,10 @@
                                                         <img class="img-fluid rounded" style="text-align: left" src="imgs/collage1.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             This buttefly mimics a owl eye as a <strong>defence mechanism</strong> in order to scare away other birds that might want to feed on it.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             The eye pattern on wings is recurrent both in <strong>buttterlies and moths</strong>.
                                                         </p>
                                                     </div>
@@ -147,10 +177,10 @@
                                                         <img class="img-fluid rounded" style="text-align: left" src="imgs/rectangle9.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             They live mostly in <strong>forests</strong>, are known for sequestering acids from plants they feed on and defend themselves from predators by being <strong>poisonous when consumed</strong>.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             In some areas there are <strong>concerns regarding their conservation</strong>.
                                                         </p>
                                                     </div>
@@ -174,10 +204,10 @@
                                                         <img class="img-fluid rounded" src="imgs/collage2.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             Closed, it <strong>looks like a dead leaf</strong> which helps it escape predators.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             They use a strategy called <strong>poliphemism</strong> to change color and other visual features depending on <strong>dry and wet season</strong>.
                                                         </p>
                                                     </div>
@@ -202,10 +232,10 @@
                                                         <img id="img4" class="img-fluid rounded" src="imgs/rectangle4.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             The boldly striped <strong>black and white wing pattern</strong> is aposematic, <strong>warning off predators</strong>.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             They feed on pollen and nectar; which <strong>enables them to synthesize cyanogenic glycosides</strong> that make their <strong>bodies toxic to potential predators</strong>.
                                                         </p>
                                                     </div>
@@ -229,7 +259,7 @@
                                                         <img id="img7" class="img-fluid rounded" src="imgs/rectangle7.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             This is the <strong>smallest butterfly</strong>, with a <strong>wingspan of 12–20 mm</strong> - as big as a human fingernail.
                                                         </p>
                                                     </div>
@@ -253,10 +283,10 @@
                                                         <img id="img10" class="img-fluid rounded" src="imgs/rectangle10.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             It’s a species of <strong>day-flying moth</strong> of the family Uraniidae.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             It is much sought after by collectors. The <strong>iridescent parts of the wings do not have pigment</strong>; the colours originate from <strong>optical interference</strong>.                                                        </p>
                                                     </div>
                                                 </div>
@@ -279,10 +309,10 @@
                                                         <img id="img12" class="img-fluid rounded" src="imgs/rectangle12.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             Large Blue has a  <strong>symbiotic relationship with Myrmica sabuleti ants</strong> and is dependent on the ant for it's survival, which greatly limits the areas where the butterfly can breed.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             <strong>If the ant colonies die out, the Large Blue is predicted to die too</strong>. It is <strong>protected in Europe</strong>, and its collection is illegal.
                                                     </div>
                                                 </div>
@@ -305,10 +335,10 @@
                                                         <img id="img14" class="img-fluid rounded" src="imgs/rectangle14.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             It uses <strong>transparency instead</strong> of coloration for <strong>camouflage</strong> purposes.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             It looks fragile but it <strong>can carry up to 40 times of its body weight</strong> and is able to <strong>fly approximately 19 km per day</strong>.
                                                         </p>
                                                     </div>
@@ -332,10 +362,10 @@
                                                         <img id="img16" class="img-fluid rounded" src="imgs/rectangle16.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             One of the biggest moths in the world with a <strong>wing span up to 27 cm</strong>.
                                                         </p>
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             The top of forewings <strong>mimics cobra snake head</strong> in order to scare predators. The caterpillars produce silk similar to domesticated silkworms.
                                                         </p>
                                                     </div>
@@ -359,7 +389,7 @@
                                                         <img id="img19" class="img-fluid rounded" src="imgs/rectangle19.png"/>
                                                     </div>
                                                     <div class="col">
-                                                        <p style="text-align: left">
+                                                        <p class="paragraph" style="text-align: left">
                                                             Is a butterfly in wet tropical forests in Middle America <strong>distinct for its 88 like patterns</strong> on the outerside of the wings.
                                                         </p>
                                                     </div>
