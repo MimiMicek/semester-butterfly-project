@@ -1,4 +1,7 @@
 <?php require_once 'header.php';?>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/style.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     </head>
     <body class="word-cloud">
     <main>
@@ -17,48 +20,361 @@
                                         </svg>
                                     </span>
                                 </div>
-                                <div class="col-xs-12 col-sm-6 col-md-8" style="text-align: right !important; margin-bottom: 50px">
+                                <div class="col-xs-12 col-sm-6" style="text-align: right !important; margin-bottom: 50px">
                                     <h1><strong>Some amazing</strong></h1>
                                     <h1><strong>species</strong></h1>
                                 </div>
                             </div>
                             <div class="card-text text-center m-5">
                                 <div class="gallery">
-                                    <img src="imgs/rectangle48.png" class="single-image" />
-                                    <img src="imgs/rectangle48.png" class="single-image" />
-                                    <img src="imgs/rectangle48.png" class="single-image" />
-                                    <img src="imgs/rectangle48.png" class="single-image" />
-                                    <img src="imgs/rectangle49.png" class="single-image" />
-                                    <img src="imgs/rectangle49.png" class="single-image" />
-                                    <img src="imgs/rectangle49.png" class="single-image" />
-                                    <img src="imgs/rectangle49.png" class="single-image" />
-                                    <img src="imgs/rectangle49.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
-                                    <img src="imgs/rectangle50.png" class="single-image" />
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal1">
+                                        <img id="img1" class="img-fluid rounded" src="imgs/rectangle1.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal2">
+                                        <img id="img2" class="img-fluid rounded" src="imgs/rectangle2.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img3" class="img3 img-fluid rounded" src="imgs/rectangle3.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal4">
+                                        <img id="img4" class="img-fluid rounded" src="imgs/rectangle4.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img5" class="img-fluid rounded" src="imgs/rectangle5.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img6" class="img-fluid rounded" src="imgs/rectangle6.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal7">
+                                        <img id="img7" class="img-fluid rounded" src="imgs/rectangle7.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img8" class="img-fluid rounded" src="imgs/rectangle8.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal9">
+                                        <img id="img9" class="img-fluid rounded" src="imgs/rectangle9.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal10">
+                                        <img id="img10" class="img-fluid rounded" src="imgs/rectangle10.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img11" class="img-fluid rounded" src="imgs/rectangle11.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal12">
+                                        <img id="img12" class="img-fluid rounded" src="imgs/rectangle12.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img13" class="img-fluid rounded" src="imgs/rectangle13.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal14">
+                                        <img id="img14" class="img-fluid rounded" src="imgs/rectangle14.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img15" class="img-fluid rounded" src="imgs/rectangle15.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal16">
+                                        <img id="img16" class="img-fluid rounded" src="imgs/rectangle16.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img17" class="img-fluid rounded" src="imgs/rectangle17.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img18" class="img-fluid rounded" src="imgs/rectangle18.png"/>
+                                        </div>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal" data-target="#showModal19">
+                                        <img id="img19" class="img-fluid rounded" src="imgs/rectangle19.png"/>
+                                    </a>
+                                    <a type="button" href="" data-toggle="modal">
+                                        <div class="middle">
+                                            <img id="img20" class="img-fluid rounded" src="imgs/rectangle20.png"/>
+                                        </div>
+                                    </a>
                                 </div>
-                            </div>
+                                <div class="modal fade" id="showModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Boomerang owl (<i>Caligo oedipus</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img class="img-fluid rounded" style="text-align: left" src="imgs/collage1.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            This buttefly mimics a owl eye as a <strong>defence mechanism</strong> in order to scare away other birds that might want to feed on it.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            The eye pattern on wings is recurrent both in <strong>buttterlies and moths</strong>.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal9" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Blue swallowtail (<i>Battus philenor</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img class="img-fluid rounded" style="text-align: left" src="imgs/rectangle9.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            They live mostly in <strong>forests</strong>, are known for sequestering acids from plants they feed on and defend themselves from predators by being <strong>poisonous when consumed</strong>.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            In some areas there are <strong>concerns regarding their conservation</strong>.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Orange Oak Leaf (<i>Kallima inachus</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img class="img-fluid rounded" src="imgs/collage2.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            Closed, it <strong>looks like a dead leaf</strong> which helps it escape predators.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            They use a strategy called <strong>poliphemism</strong> to change color and other visual features depending on <strong>dry and wet season</strong>.
+                                                        </p>
+                                                    </div>
+                                                </div>
 
-                            <div id="myModal" class="modal fade" role="dialog">
-                                <div class="modal-dialog">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Zebra longwing (<i>Heliconius charithonia</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img4" class="img-fluid rounded" src="imgs/rectangle4.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            The boldly striped <strong>black and white wing pattern</strong> is aposematic, <strong>warning off predators</strong>.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            They feed on pollen and nectar; which <strong>enables them to synthesize cyanogenic glycosides</strong> that make their <strong>bodies toxic to potential predators</strong>.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal7" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Western Pygmy Blue (<i>Brephidium exile</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img7" class="img-fluid rounded" src="imgs/rectangle7.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            This is the <strong>smallest butterfly</strong>, with a <strong>wingspan of 12–20 mm</strong> - as big as a human fingernail.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal10" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Madagascan sunset moth (<i>Chrysiridia rhipheus</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img10" class="img-fluid rounded" src="imgs/rectangle10.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            It’s a species of <strong>day-flying moth</strong> of the family Uraniidae.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            It is much sought after by collectors. The <strong>iridescent parts of the wings do not have pigment</strong>; the colours originate from <strong>optical interference</strong>.                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal12" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Large Blue (<i>Maculinea Arion</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img12" class="img-fluid rounded" src="imgs/rectangle12.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            Large Blue has a  <strong>symbiotic relationship with Myrmica sabuleti ants</strong> and is dependent on the ant for it's survival, which greatly limits the areas where the butterfly can breed.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            <strong>If the ant colonies die out, the Large Blue is predicted to die too</strong>. It is <strong>protected in Europe</strong>, and its collection is illegal.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal14" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Glasswinged butterfly (<i>Greta oto</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img14" class="img-fluid rounded" src="imgs/rectangle14.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            It uses <strong>transparency instead</strong> of coloration for <strong>camouflage</strong> purposes.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            It looks fragile but it <strong>can carry up to 40 times of its body weight</strong> and is able to <strong>fly approximately 19 km per day</strong>.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal16" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Atlas moth (<i>Attacus atlas</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img16" class="img-fluid rounded" src="imgs/rectangle16.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            One of the biggest moths in the world with a <strong>wing span up to 27 cm</strong>.
+                                                        </p>
+                                                        <p style="text-align: left">
+                                                            The top of forewings <strong>mimics cobra snake head</strong> in order to scare predators. The caterpillars produce silk similar to domesticated silkworms.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal fade" id="showModal19" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered" role="document">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h4 class="modal-title" id="exampleModalLongTitle"><strong>Anna's eighty-eight (<i>Diaethria anna</i>)</strong></h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <div class="row">
+                                                    <div class="col">
+                                                        <img id="img19" class="img-fluid rounded" src="imgs/rectangle19.png"/>
+                                                    </div>
+                                                    <div class="col">
+                                                        <p style="text-align: left">
+                                                            Is a butterfly in wet tropical forests in Middle America <strong>distinct for its 88 like patterns</strong> on the outerside of the wings.
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            </div>
 
                             <div style="text-align: right !important;">
-                                <a href="closer-look-3" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
+                                <a href="app" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -66,13 +382,4 @@
             </div>
         </div>
     </main>
-    <script>
-        $(document).ready(function () {
-            $(".single-image").click(function(){
-                var t = $(this).attr("src");
-                $(".modal-body").html("<img src='"+t+"' class='modal-img'>");
-                $("#myModal").modal();
-            });
-        });
-    </script>
 <?php require_once 'footer.php';?>

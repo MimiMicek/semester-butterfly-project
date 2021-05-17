@@ -33,8 +33,7 @@
                                     </span>
                                 </div>
                                 <div class="col-xs-12 col-sm-6 col-md-8" style="text-align: right !important; margin-bottom: 50px;">
-                                    <h1><strong>What do butterflies</strong></h1>
-                                    <h1><strong>mean to you?</strong></h1>
+                                    <h1><strong>Choose the meaningful words again</strong></h1>
                                 </div>
                             </div>
                             <h4 style="text-align: center;">Read the list of words below and choose 5 words that symbolize for you the butterflies as a concept. Remember: there are no right or wrong answers.</h4>
@@ -129,7 +128,7 @@
                                 </div>
                             </div>
                             <div style="text-align: right !important;">
-                                <a href="facts-slider" style="text-align: center !important;" class="btn-next"><i class="fas fa-chevron-right"></i></a>
+                                <a href="final" style="text-align: center !important;" class="btn-next"><i class="fas fa-chevron-right"></i></a>
                             </div>
 
                           </div>

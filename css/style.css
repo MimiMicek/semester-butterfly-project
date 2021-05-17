@@ -196,61 +196,68 @@ a:hover {
     margin-top: 10px;
     overflow: hidden;
 }
+
+/*
+#img3 #img5 #img6 #img8 #img11 #img13 #img15 #img17 #img18 #img20{
+    background: red;
+    opacity: 0.3;
+    overflow: hidden;
+    object-fit: cover;
+}*/
+
 .gallery img {
+  /*  opacity: 1;*/
+    display: block;
     width: 100%;
     height: auto;
-    transition: 500ms;
-    margin-bottom: 10px;
-    opacity: 0.8;
-    page-break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    break-inside: avoid;
+    transition: .5s ease;
+    backface-visibility: hidden;
 }
+
+.middle:hover {
+    transition: .5s ease;
+    opacity: 0.3;
+    background-color: red;
+    text-align: center;
+}
+
 .gallery img:hover {
-    opacity: 1;
+    opacity: 0.3;
 }
-.modal-img,.model-vid{
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    display: table
+
+
+.text {
+    color: white;
+    font-size: 16px;
+    text-align: justify;
+    visibility: hidden;
+    transition: .2s;
+    transform: translateY(1em);
 }
-.modal-body{
-    padding: 0px;
-}
-.modal-dialog {
-    height: 100%;
+
+.tooltip {
     position: relative;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: inline-block;
+    border-bottom: 1px dotted black;
 }
-.modal-content {
-    border: none;
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
 }
-@media screen and (max-width: 767px) {
-    .gallery {
-        -webkit-column-count: 2;
-        -moz-column-count: 2;
-        column-count: 2;
-    }
-    .gallery div { margin: 0;
-        width: 200px;
-    }
-    .modal-dialog {
-        margin: 0 8vw;
-    }
+
+.img3:hover .tooltiptext {
+    visibility: visible;
 }
-@media screen and (max-width: 479px) {
-    .gallery {
-        -webkit-column-count: 1;
-        -moz-column-count: 1;
-        column-count: 1;
-    }
-    .gallery div {
-        margin: 0;
-        width: 200px;
-    }
+
+.paragraph{
+    font-size: 20px;
 }
+
