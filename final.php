@@ -10,11 +10,7 @@
                             <div>
                                 <img class="main-logo" src="imgs/final.png"/>
                             </div>
-                            <div style="text-align: right !important;">
-                                <a href="" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
-                            </div>
-
-                          </div>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -39,7 +39,8 @@
                                        Avoid using pesticides near your flowering plants.
                                    </li>
                                    <li style="margin-bottom: 10px">
-                                       Help them be warm on cold and rainy days by building or buying a butterfly house or an insect hotel.                                   </li>
+                                       Help them be warm on cold and rainy days by building or buying a butterfly house or an insect hotel.
+                                   </li>
                                    <li style="margin-bottom: 10px">
                                        Support the growth of caterpillars by letting the grass grow tall for the summer in one part of the garden.
                                    </li>
@@ -47,7 +48,7 @@
                             </div>
 
                             <div style="text-align: right !important;">
-                                <a href="final" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
+                                <a href="word-cloud-2" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>

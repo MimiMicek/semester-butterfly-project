@@ -38,6 +38,7 @@
                                 </div>
                             </div>
                             <h4 style="text-align: center;">Read the list of words below and choose 5 words that symbolize for you the butterflies as a concept. Remember: there are no right or wrong answers.</h4>
+                            <h5 style="text-align: center; margin-bottom: 30px;">*drag and drop the words in the boxes</h5>
                             <div class="card-text text-center">
                                 <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
                                     <img src="imgs/aposematism.png" draggable="true" ondragstart="drag(event)" id="drag1" width="275" height="45" alt="">

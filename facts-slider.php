@@ -41,7 +41,10 @@
                                         <button id="checkBtn" onclick="showAnswer()" style="" class="btn btn-success">Check answer</button>
                                     </div>
                                     <div id="answer" class="col-xs-12 col-sm-6 col-md-8 answer float-right" style="text-align: right !important; margin-top: 40px;">
-                                        <p style="text-align: center !important;margin-top: inherit"><strong>On average</strong> butterflies live <strong>2 weeks</strong> but there are specimens that live only 1 day and some migratory specimens like the monarchs that can live up to a year.</p>
+                                        <p style="text-align: center !important;margin-top: inherit">
+                                            The <strong>oldest group of Lepidoptera</strong> found, originates from
+                                            the Late Carboniferous, about <strong>300 million years ago</strong>.
+                                        </p>
                                     </div>
                                 </div>
                             </div>

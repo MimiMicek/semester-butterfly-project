@@ -9,7 +9,7 @@
         <div class="card text-center mt-2">
           <div class="card-body">
             <div class="ratio" style="--bs-aspect-ratio: 70%;">
-              <iframe src="https://42125.gradio.app\" title="Gradio app" allowfullscreen></iframe>
+              <iframe src="https://24349.gradio.app/" title="Gradio app" allowfullscreen></iframe>
             </div>
               <div style="text-align: right !important;">
                   <a href="unavailable" style="text-align: center !important; margin-top: 50px" class="btn-next"><i class="fas fa-chevron-right"></i></a>
